@@ -156,6 +156,8 @@
 		64180DEF1BAA5B2E005D162D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = csj;
 				TargetAttributes = {
@@ -409,6 +411,7 @@
 				64180E181BAA5B2E005D162D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		64180E191BAA5B2E005D162D /* Build configuration list for PBXNativeTarget "testNotifacationTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +420,7 @@
 				64180E1B1BAA5B2E005D162D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
